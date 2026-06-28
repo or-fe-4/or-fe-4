@@ -1,16 +1,18 @@
-## Hi there 👋
+# サミ
+大阪大学理学部数学科２年  
 
-<!--
-**or-fe-4/or-fe-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interest: 数学, 機械学習, セキュリティ  
 
-Here are some ideas to get you started:
+ClaudeとChatGPTを頼りにしています
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+[ha-server](https://github.com/or-fe-4/ha-server)
+などの初期に作ったリポジトリはほぼAI頼り  
+インフラ周りを広く浅く触れかった  
+[ml-dl-study](https://github.com/or-fe-4/ml-dl-study)
+は機械学習の勉強メモ
+
+## 今後の展望
+- 数学で修士号
+- C言語とLinuxの勉強
+- AtcoderとKaggle

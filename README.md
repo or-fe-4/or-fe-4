@@ -9,6 +9,7 @@ ClaudeとChatGPTを頼りにしています
 [ha-server](https://github.com/or-fe-4/ha-server)
 などの初期に作ったリポジトリはほぼAI頼り  
 インフラ周りを広く浅く触れかった  
+
 [ml-dl-study](https://github.com/or-fe-4/ml-dl-study)
 は機械学習の勉強メモ
 
